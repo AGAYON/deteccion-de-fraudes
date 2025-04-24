@@ -1,0 +1,15 @@
+# Ignora el ambiente virtual
+venv/
+
+# Ignora archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignora carpetas de salida
+outputs/
+
+# Ignora checkpoints de notebooks
+*.ipynb_checkpoints
+
+# Ignora carpeta de datos si no quieres subirlos
+data/
